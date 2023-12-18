@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useState } from 'react'
 import './style/App.css'
 import { CURRENCIES } from "./constants"
 import Currency from "./Currency";
